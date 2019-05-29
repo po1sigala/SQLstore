@@ -1,0 +1,24 @@
+{
+  "name": "SQLstore",
+  "version": "1.0.0",
+  "description": "CLI app using SQL Node, NPM, and JS to create an inventory which could be used in a store.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/po1sigala/SQLstore.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/po1sigala/SQLstore/issues"
+  },
+  "homepage": "https://github.com/po1sigala/SQLstore#readme",
+  "dependencies": {
+    "inquirer": "^6.3.1",
+    "mysql": "^2.17.1"
+  }
+}
